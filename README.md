@@ -27,7 +27,10 @@ Projekt wykonany w Android Studio – prosty mobilny quiz wielokrotnego wyboru s
 1. Pobierz repozytorium:
 
    Screeny:
-   <img width="1599" height="899" alt="Zrzut ekranu 2025-11-27 140852" src="https://github.com/user-attachments/assets/5338529d-7fae-4659-a7c5-436a73b8af59" />
-   <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/ae5e7fa4-e5eb-4627-a28e-552f3b1787bc" />
-   <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/9b05bdee-7bd1-4143-83d9-d6cef056b38e" />
+   <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/5e7262ca-7a45-41c9-ac5a-18cbf4cc775b" />
+   <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/fdc391e3-65b9-4594-b397-07ef96d0bc17" />
+   <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/5a54ed97-249d-43d7-8ef2-c63777178426" />
+
+
+
 
